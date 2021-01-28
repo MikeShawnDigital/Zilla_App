@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MikeShawnDigital/Zilla_App.git/static/css/main.8c5d0352.chunk.css",
+    "main.js": "/MikeShawnDigital/Zilla_App.git/static/js/main.30bb4dfe.chunk.js",
+    "main.js.map": "/MikeShawnDigital/Zilla_App.git/static/js/main.30bb4dfe.chunk.js.map",
+    "runtime-main.js": "/MikeShawnDigital/Zilla_App.git/static/js/runtime-main.c34ed80c.js",
+    "runtime-main.js.map": "/MikeShawnDigital/Zilla_App.git/static/js/runtime-main.c34ed80c.js.map",
+    "static/js/2.33f630fb.chunk.js": "/MikeShawnDigital/Zilla_App.git/static/js/2.33f630fb.chunk.js",
+    "static/js/2.33f630fb.chunk.js.map": "/MikeShawnDigital/Zilla_App.git/static/js/2.33f630fb.chunk.js.map",
+    "index.html": "/MikeShawnDigital/Zilla_App.git/index.html",
+    "static/css/main.8c5d0352.chunk.css.map": "/MikeShawnDigital/Zilla_App.git/static/css/main.8c5d0352.chunk.css.map",
+    "static/js/2.33f630fb.chunk.js.LICENSE.txt": "/MikeShawnDigital/Zilla_App.git/static/js/2.33f630fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c34ed80c.js",
+    "static/js/2.33f630fb.chunk.js",
+    "static/css/main.8c5d0352.chunk.css",
+    "static/js/main.30bb4dfe.chunk.js"
+  ]
+}
